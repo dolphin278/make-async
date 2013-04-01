@@ -1,0 +1,23 @@
+{
+  "name": "make-async",
+  "version": "0.0.0",
+  "description": "Allows writing simple synchronous function an use them later as asynchronous",
+  "main": "makeAsync.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dolphin278/make-async.git"
+  },
+  "keywords": [
+    "async",
+    "sync",
+    "convert",
+    "function"
+  ],
+  "author": "Boris Egorov",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "143e01b023893c6e325aba218a6eff99f7f69fde"
+}
